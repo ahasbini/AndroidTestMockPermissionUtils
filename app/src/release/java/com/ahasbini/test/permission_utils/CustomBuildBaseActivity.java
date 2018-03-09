@@ -1,11 +1,7 @@
-package test.ahasbini.com.test;
+package com.ahasbini.test.permission_utils;
 
 import android.annotation.SuppressLint;
-import android.content.Context;
-import android.support.annotation.NonNull;
 import android.support.v7.app.AppCompatActivity;
-
-import java.util.HashMap;
 
 /**
  * An unmodified {@link AppCompatActivity} used in release mode with all implementations working as
